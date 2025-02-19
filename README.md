@@ -1,6 +1,6 @@
 
 
-I am a full stack developer who is looking for money to feed my cat.
+I'm a full stack developer just trying to make some money to feed my cat..
 
 ## Technologies I work with:
 - ![Ruby](https://img.shields.io/badge/-Ruby-701516?style=flat-square&logo=ruby&logoColor=ffffff) 
